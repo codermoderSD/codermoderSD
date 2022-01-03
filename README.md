@@ -11,7 +11,7 @@ Some of my favorite things are:
 
 ## Find me online
 
-[<img align="left" alt="shubhamdalvi-7f9a2.web.app/" width="32px" src="https://img.icons8.com/external-kmg-design-flat-kmg-design/32/000000/external-web-web-hosting-kmg-design-flat-kmg-design.png" />][website]
+[<img align="left" alt="shubhamdalvi-7f9a2.web.app/" width="32px" src="https://img.icons8.com/external-prettycons-flat-prettycons/47/000000/external-website-web-seo-prettycons-flat-prettycons.png" />][website]
 [<img align="left" alt="Shubham's Twitter" width="32px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />][linkedin]
 [<img align="left" alt="Shubham Dalvi Youtube Channel" width="32px" src="https://img.icons8.com/color/48/000000/youtube-play.png" />][youtube]
 [<img align="left" alt="Shubham's Twitter" width="32px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
