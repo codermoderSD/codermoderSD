@@ -1,6 +1,5 @@
-### What's up! I'm Shubham.
+### Heyy!👋🏻 I'm Shubham.
 
-Hello, I am Shubham!
 I am an undergraduate in Electronics Engineering at the Vidyalankar Institute of Technology, Mumbai. I like to keep experimenting with front-end technologies. I've made some full-stack apps using React and Firebase. I am currently learning about Backend technologies like Node.js and Golang and finding ways to optimise the front-end. IoT and Augmented Reality amaze me a lot. So in my free time, I like to read articles about the latest IoT trends and new AR experiments people are working upon.
 
 Some of my favorite things are:
