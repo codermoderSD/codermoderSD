@@ -17,7 +17,7 @@ Some of my favorite things are:
 [<img align="left" alt="Shubham's Twitter" width="32px" src="https://img.icons8.com/color/48/000000/twitter--v1.png" />][twitter]
 [<img align="left" alt="Shubham's Github" width="32px" src="https://img.icons8.com/fluency/48/000000/github.png" />][github]
 
-[website]: https://shubhamdalvi-7f9a2.web.app/
+[website]: https://shubhamdalvi.in
 [linkedin]: https://www.linkedin.com/in/shubham-dalvi-a569751ab/
 [youtube]: https://www.youtube.com/channel/UCEePnj6n4_LaiGfoF6eqwtQ
 [twitter]: https://twitter.com/Shubham_d_137
