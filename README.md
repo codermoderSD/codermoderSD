@@ -1,6 +1,6 @@
 ### Heyy!👋🏻 I'm Shubham.
 
-I am an undergraduate in Electronics Engineering at the Vidyalankar Institute of Technology, Mumbai. I like to keep experimenting with front-end technologies. I've made some full-stack apps using React and Firebase. I am currently learning about Backend technologies like Node.js and Golang and finding ways to optimise the front-end. IoT and Augmented Reality amaze me a lot. So in my free time, I like to read articles about the latest IoT trends and new AR experiments people are working upon.
+I am an Electronics Graduate from Vidyalankar Institute of Technology, Mumbai. Experimenting with different technologies is one of my favorite things to do. With the help of React and Firebase, I have created a couple of full-stack web apps. My goal is to gain a better understanding of backend technologies such as Node.js and Golang, as well as front-end code optimization. Front-end frameworks like Next.js are my preferred choices at the moment. There are so many things I'm fascinated by when it comes to IoT and Augmented Reality. I enjoy reading articles about the latest IoT trends and AR experiments during my spare time.
 
 Some of my favorite things are:
 
